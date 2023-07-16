@@ -47,42 +47,48 @@
       "date": "Apr 2023 - Current",
       "institution": "Life Choices",
       "eduDesc": "I'm currently attending a 12-month coding bootcamp at Life Choices, which will prepare me to become a web developer. I'm learning all the necessary skills to thrive as a front-end developer.",
-      "type": "Education"
+      "type": "Education",
+      "img": "https://lifechoices.co.za/wp-content/uploads/2022/02/logo_429x991.png"
     },
     {
       "id": 2,
       "date": "Mar 2023",
       "institution": "Rlabs",
       "eduDesc": "Rlabs had a one month program where we were introduced to AWS and how it all works.",
-      "type": "Education"
+      "type": "Education",
+      "img": "https://rlabs.org/wp-content/uploads/2019/09/RLabs-Logo-Website-White-288x151-02-1000x500.png"
     },
     {
       "id": 3,
       "date": "Jan 2020 - Dec 2020",
       "institution": "Rlabs",
       "eduDesc": "Rlabs created a one-year program where they taught us different concepts in IT. We were taught how to use the Microsoft Suite and how to write emails in the workplace. After 3 months, they split us up into groups depending on what job you wanted. I chose web development, so throughout the year we were taught web development concepts and created web pages using WordPress.",
-      "type": "Education"
+      "type": "Education",
+      "img": "https://rlabs.org/wp-content/uploads/2019/09/RLabs-Logo-Website-White-288x151-02-1000x500.png"
     },
     {
       "id": 4,
       "date": "Jan 2017 - Jun 2019",
       "institution": "iStudent Academy - College of Technology",
       "eduDesc": "This is where I started my journey into the world of Information technology. During my two and a half years at iStudent Academy, I gained knowledge that would help me in the workplace. The qualifications I obtained are the following: 1. National Certification: Information Technology, Systems Development 2. Diploma: ICT Systems and Principles for IT Professionals and 3. National Certification: Information Technology, Systems Support",
-      "type": "Education"
+      "type": "Education",
+      "img": "https://www.snupit.co.za/content/photos/342091/342091-572aa926-91d7-4784-ab2d-ecef5217a997.png"
     },
     {
       "id": 5,
       "date": "2016",
       "institution": "Rlabs",
       "eduDesc": "In 2016, I joined a month-long short course with Rlabs as an introduction to web development, and this is where my passion came about. I was exposed to HTML and CSS and created basic webpages, but the feeling I got when I created a webpage is one I won't ever forget.",
-      "type": "Education"
+      "type": "Education",
+      "img": "https://rlabs.org/wp-content/uploads/2019/09/RLabs-Logo-Website-White-288x151-02-1000x500.png"
     },
     {
       "id": 6,
       "date": "2016",
       "institution": "Rhodes High School",
       "eduDesc": "My high school period wasn't the best but I'm proud of the person I become after I graduated.",
-      "type": "Education"
+      "type": "Education",
+      "img": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vaupflihm8bdjscgtkjm"
     }
   ],
   "qualification": [
@@ -125,14 +131,16 @@
       "date": "Mar 2022 - Nov 2022",
       "company": "Business Technology",
       "jobDesc": "I worked at Business Technology for 9 months as a Systems engineer, and my daily tasks were as follows: seeing to client hardware and software issues; doing client visits; and setting up PCs for clients. The reason I left was because I felt like it wasn't what I wanted to do and needed to do something else.",
-      "type": "Work"
+      "type": "Work",
+      "img": "https://businesstechnology.co.za/wp-content/uploads/2021/06/Business-Technology-logo-white-150px.png"
     },
     {
       "id": 2,
       "date": "Jun 2019 - Nov 2019",
-      "company": "First Technology",
+      "company": "First Digital",
       "jobDesc": "I worked at First Technology for 5 months, and my daily tasks were creating power apps and power flows for clients, seeing to clients SharePoint Sites, and creating custom SharePoint sites. The reason I left was because I felt like I wasn't ready and needed to study further.",
-      "type": "Work"
+      "type": "Work",
+      "img": "https://companies.mybroadband.co.za/first-digital/wp-content/themes/first-digital/images/logo_white.png?v=2"
     }
   ],
   "projects": [
