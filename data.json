@@ -39,6 +39,14 @@
       "skillLevel": "Beginner",
       "img": "https://i.postimg.cc/63nFRGyy/pngegg.png",
       "type": "Skills"
+    },
+    {
+      "id": 6,
+      "skillName": "Node JS",
+      "skillDesc": "During my 6 months at Life Choices Coding Academy, we created an e-commerce website and we used node js as our backend language. During the project, I've managed to build a good understanding of node js and how to build an API, I've also managed to get a good understanding of authenticate and authorization.",
+      "skillLevel": "Beginner",
+      "img": "https://i.postimg.cc/wTQ8c5X2/pngegg.png",
+      "type": "Skills"
     }
   ],
   "education": [
@@ -128,6 +136,14 @@
   "work": [
     {
       "id": 1,
+      "date": "Nov 2023 - Current",
+      "company": "Sintrex",
+      "jobDesc": "I've joined Sintrex as a developer intern.",
+      "type": "Work",
+      "img": "https://i.postimg.cc/J4j8GVYs/sintrex-logo.jpg"
+    },
+    {
+      "id": 2,
       "date": "Mar 2022 - Nov 2022",
       "company": "Business Technology",
       "jobDesc": "I worked at Business Technology for 9 months as a Systems engineer, and my daily tasks were as follows: seeing to client hardware and software issues; doing client visits; and setting up PCs for clients. The reason I left was because I felt like it wasn't what I wanted to do and needed to do something else.",
@@ -135,7 +151,7 @@
       "img": "https://businesstechnology.co.za/wp-content/uploads/2021/06/Business-Technology-logo-white-150px.png"
     },
     {
-      "id": 2,
+      "id": 3,
       "date": "Jun 2019 - Nov 2019",
       "company": "First Digital",
       "jobDesc": "I worked at First Technology for 5 months, and my daily tasks were creating power apps and power flows for clients, seeing to clients SharePoint Sites, and creating custom SharePoint sites. The reason I left was because I felt like I wasn't ready and needed to study further.",
@@ -146,6 +162,14 @@
   "projects": [
     {
       "id": 1,
+      "projectTitle": "Creative Studio",
+      "projectDesc": "This is my attempt at recreating a website I find on pinterest.",
+      "gitHubLink": "https://github.com/Justin0929m/website.git",
+      "demoLink": "https://ctivestudio.netlify.app",
+      "img": "https://i.postimg.cc/y6tpgLkt/Capture.png"
+    },
+    {
+      "id": 2,
       "projectTitle": "E-commerce Website",
       "projectDesc": "I created an e-commerce website with an admin page using HTML, CSS, and JavaScript. The primary objective was to build a functional and visually appealing online store with an accompanying admin interface to manage products using a CRUD system.",
       "gitHubLink": "https://github.com/LC1007/eomp-ecommerce.git",
@@ -153,7 +177,7 @@
       "img": "https://i.postimg.cc/057VCH85/Untitled2.png"
     },
     {
-      "id": 2,
+      "id": 3,
       "projectTitle": "Property Website",
       "projectDesc": "I found a property website design on Pinterest and tried recreating it using HTML and CSS. The goal was to develop a visually appealing and user-friendly website that showcases various properties and provides essential information to potential buyers or renters.",
       "gitHubLink": "https://github.com/Justin0929m/property-Website-Update.git",
@@ -161,7 +185,7 @@
       "img": "https://i.postimg.cc/13syrK2r/Untitled.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "projectTitle": "Travel Website",
       "projectDesc": "I did the same process as with the property website, where I looked for website designs to recreate to test my HTML and CSS skills. I found a travel website that peaked my interest, and I've recreated the website to the best of my ability.",
       "gitHubLink": "https://github.com/Justin0929m/travel-website.git",
@@ -169,20 +193,12 @@
       "img": "https://i.postimg.cc/cLTBLb6r/tempsnip.png"
     },
     {
-      "id": 4,
+      "id": 5,
       "projectTitle": "E-commerce Website",
       "projectDesc": "I created this website for someone who sells things from their home; the purpose of the website was to make posting items easier instead of posting on their WhatsApp status. I am still in the process of building the website, but I've completed most of the UI aspect of it.",
       "gitHubLink": "https://github.com/Justin0929m/project-1.git",
       "demoLink": "https://homesalestoday.netlify.app/",
       "img": "https://i.postimg.cc/V6Rh1jDm/Untitled.png"
-    },
-    {
-      "id": 5,
-      "projectTitle": "Class Exercise",
-      "projectDesc": "I had to create flip card animations and this was my attempt at trying it.",
-      "gitHubLink": "https://github.com/LC1007/website-exercise",
-      "demoLink": "https://class-exercise007.netlify.app",
-      "img": "https://i.postimg.cc/Xv9dbbn2/Screenshot-2023-07-07-143130.png"
     },
     {
       "id": 6,
