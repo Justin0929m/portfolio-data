@@ -35,7 +35,7 @@
     {
       "id": 5,
       "skillName": "VUE 3",
-      "skillDesc": "I'm currently improving my skills with Vue, some of the concepts comes easy me to when I apply the code but some I need a bit more time to give over though the determination succeed helps me to overcome those obstacles",
+      "skillDesc": "I'm currently improving my skills with Vue, some of the concepts come easy me to when I apply the code but some I need a bit more time to give over though the determination to succeed helps me to overcome those obstacles",
       "skillLevel": "Beginner",
       "img": "https://i.postimg.cc/63nFRGyy/pngegg.png",
       "type": "Skills"
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "skillName": "MYSQL",
-      "skillDesc": "I've used mysql for my ecommerce backend database. I've been using SQL for quite some time so I know my way around it and a few SQL queries.",
+      "skillDesc": "I've used mysql for my e-commerce backend database. I've been using SQL for quite some time so I know my way around it and a few SQL queries.",
       "skillLevel": "Intermediate",
       "img": "https://i.postimg.cc/pL8cs8J7/pngegg.png",
       "type": "Skills"
@@ -70,7 +70,7 @@
       "id": 2,
       "date": "Mar 2023",
       "institution": "Rlabs",
-      "eduDesc": "Rlabs had a one month program where we were introduced to AWS and how it all works.",
+      "eduDesc": "Rlabs had a one-month program where we were introduced to AWS and how it all works.",
       "type": "Education",
       "img": "https://rlabs.org/wp-content/uploads/2019/09/RLabs-Logo-Website-White-288x151-02-1000x500.png"
     },
@@ -78,7 +78,7 @@
       "id": 3,
       "date": "Jan 2020 - Dec 2020",
       "institution": "Rlabs",
-      "eduDesc": "Rlabs created a one-year program where they taught us different concepts in IT. We were taught how to use the Microsoft Suite and how to write emails in the workplace. After 3 months, they split us up into groups depending on what job you wanted. I chose web development, so throughout the year we were taught web development concepts and created web pages using WordPress.",
+      "eduDesc": "Rlabs created a one-year program where they taught us different concepts in IT. We were taught how to use the Microsoft Suite and how to write emails in the workplace. After 3 months, they split us up into groups depending on what job we wanted. I chose web development, so throughout the year we were taught web development concepts and created web pages using WordPress.",
       "type": "Education",
       "img": "https://rlabs.org/wp-content/uploads/2019/09/RLabs-Logo-Website-White-288x151-02-1000x500.png"
     },
@@ -102,7 +102,7 @@
       "id": 6,
       "date": "2016",
       "institution": "Rhodes High School",
-      "eduDesc": "My high school period wasn't the best but I'm proud of the person I become after I graduated.",
+      "eduDesc": "My high school period wasn't the best but I'm proud of the person I became after I graduated.",
       "type": "Education",
       "img": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vaupflihm8bdjscgtkjm"
     }
@@ -146,6 +146,7 @@
       "id": 1,
       "date": "Nov 2023 - Current",
       "company": "Sintrex",
+      "role": "Developer Intern",
       "jobDesc": "Sintrex is an IT infrastructure management company that creates applications for clients. The clients that we create help companies monitor their IT infrastructure, such as networking equipment and their workstations.",
       "type": "Work",
       "img": "https://i.postimg.cc/J4j8GVYs/sintrex-logo.jpg"
@@ -154,7 +155,8 @@
       "id": 2,
       "date": "Mar 2022 - Nov 2022",
       "company": "Business Technology",
-      "jobDesc": "I worked at Business Technology for 9 months as a Systems engineer, and my daily tasks were as follows: seeing to client hardware and software issues; doing client visits; and setting up PCs for clients. The reason I left was because I felt like it wasn't what I wanted to do and needed to do something else.",
+      "role": "Systems Engineer",
+      "jobDesc": "I worked at Business Technology for 9 months as a Systems Engineer, and my daily tasks were as follows: seeing to client hardware and software issues; doing client visits; and setting up PCs for clients. The reason I left was because I felt like it wasn't what I wanted to do and needed to do something else.",
       "type": "Work",
       "img": "https://businesstechnology.co.za/wp-content/uploads/2021/06/Business-Technology-logo-white-150px.png"
     },
@@ -162,7 +164,8 @@
       "id": 3,
       "date": "Jun 2019 - Nov 2019",
       "company": "First Digital",
-      "jobDesc": "I worked at First Technology for 5 months, and my daily tasks were creating power apps and power flows for clients, seeing to clients SharePoint Sites, and creating custom SharePoint sites. The reason I left was because I felt like I wasn't ready and needed to study further.",
+      "role": "Intern",
+      "jobDesc": "I worked at First Technology for 5 months, and my daily tasks were creating power apps and power flows for clients, seeing to clients' SharePoint Sites, and creating custom SharePoint sites. The reason I left was because I felt like I wasn't ready and needed to study further.",
       "type": "Work",
       "img": "https://companies.mybroadband.co.za/first-digital/wp-content/themes/first-digital/images/logo_white.png?v=2"
     }
@@ -171,7 +174,7 @@
     {
       "id": 1,
       "projectTitle": "Creative Studio / HTML / CSS",
-      "projectDesc": "This is my attempt at recreating a website I found on pinterest.",
+      "projectDesc": "This is my attempt at recreating a website I found on Pinterest.",
       "gitHubLink": "https://github.com/Justin0929m/website.git",
       "demoLink": "https://ctivestudio.netlify.app",
       "img": "https://i.postimg.cc/y6tpgLkt/Capture.png"
@@ -179,7 +182,7 @@
     {
       "id": 2,
       "projectTitle": "BMX E-com Website / HTML / CSS / VUE / Node.js / MYSQL",
-      "projectDesc": "The goal of this project was to improve on my backend developement as well as to create a complete ecommerce website which included a register and login process. It also showcases my skills using a REST API and mysql as my database for the website. You can view the backend and frontend code via the GitHub link, there are 2 branches, one for the backend and one for the frontend. You will need to switch between the branches to see the code for each file.",
+      "projectDesc": "The goal of this project was to improve on my backend development as well as to create a complete e-commerce website which included a register and login process. It also showcases my skills using a REST API and MySQL as my database for the website. You can view the backend and frontend code via the GitHub link, there are 2 branches, one for the backend and one for the frontend. You will need to switch between the branches to see the code for each file.",
       "gitHubLink": "https://github.com/LC1007/capstoneProject",
       "demoLink": "https://bmxcapstone-c14e7.web.app/",
       "img": "https://i.postimg.cc/TPNR3VM1/Capture.png"
@@ -221,7 +224,7 @@
     {
       "id": 1,
       "name": "Summer De Wet",
-      "textFirst": "Justin is the most intellectually intelligent person I know, if I could say so my self.He is extremely helpful and is always willing to leave his work to help anyone in need. He has such a kind spirit. For the past few weeks, Justin has become a really close friend of mine, and his help",
+      "textFirst": "Justin is the most intellectually intelligent person I know if I could say so myself.He is extremely helpful and is always willing to leave his work to help anyone in need. He has such a kind spirit. For the past few weeks, Justin has become a really close friend of mine, and his help",
       "textSecond": "and presence have greatly benefited me. I appreciate it. Justin does extremely well with his work and pays attention to detail in whatever he does. So I assure you, Justin would be a perfect candidate and make any company prosper! Justin doesn't mean 'righteous' for nothing.",
       "img": "https://i.postimg.cc/Ghs468Mh/20230509-171206.jpg",
       "function": "ch-one",
@@ -239,7 +242,7 @@
     {
       "id": 3,
       "name": "Zia Khan",
-      "textFirst": "I truly admire Justin's amazing work ethic. He is highly skilled at what he does. When I met him, I immediately picked up on the fact that he is an intelligent person. He is great at working with others. He's very good at problem solving and thinking creatively; he is always willing to help others, ",
+      "textFirst": "I truly admire Justin's amazing work ethic. He is highly skilled at what he does. When I met him, I immediately picked up on the fact that he is an intelligent person. He is great at working with others. He's very good at problem-solving and thinking creatively; he is always willing to help others, ",
       "textSecond": "and he can be super dependable. He can be very organized and shows amazing support for others.",
       "img": "https://i.postimg.cc/L551JxBz/zia.jpg",
       "function": "ch-three",
@@ -249,7 +252,7 @@
       "id": 4,
       "name": "Jason Viljoen",
       "textFirst": "Justin is a truly promising student, showing potential in all areas of this course. Being one of his fellow classmates, I could only gain as much knowledge from him as I could. He constantly has new ideas and is very innovative when in the development sector. He is able to work in both the back-end ",
-      "textSecond": "and front-end sectors due to his knack for problem solving and always doing his utmost to solve any problem that arises. Justin is extremely intuitive and a quick thinker; no challenge is too hard for Justin Scholtz.",
+      "textSecond": "and front-end sectors due to his knack for problem-solving and always doing his utmost to solve any problem that arises. Justin is extremely intuitive and a quick thinker; no challenge is too hard for Justin Scholtz.",
       "img": "https://i.postimg.cc/GhZypJBy/90928282-1613696178782933-8697521963691671552-n.jpg",
       "function": "ch-four",
       "type": "Post"
@@ -257,7 +260,7 @@
     {
       "id": 5,
       "name": "Codi Kader",
-      "textFirst": "Justin, He is a very determined, passionate and kind young man. He is going to do great things in the IT sector. You can count on that. Justin strives his best to make sure that all his deadlines & work is done as soon as possible and correctly as possible. He works really well in a group or alone. ",
+      "textFirst": "Justin, He is a very determined, passionate and kind young man. He is going to do great things in the IT sector. You can count on that. Justin strives his best to make sure that all his deadlines & work are done as soon as possible and correctly as possible. He works really well in a group or alone. ",
       "textSecond": "He is able to adapt in any environment he is placed in. Once you get to know him you feel a sense of belonging as he is able to welcome you in with a warm and kind energy.",
       "img": "https://i.postimg.cc/YCHxc60Q/C12-C2-Codi-Kader.jpg",
       "function": "ch-five",
@@ -277,14 +280,14 @@
     {
       "id": 1,
       "title": "Adobe Photoshop",
-      "desc": "During 2016 I had some free time to learn a new skill and I decided to learn how to use photoshop, I managed to get a good understanding of how it works and how to create graphics for certain things.",
+      "desc": "During 2016 I had some free time to learn a new skill and I decided to learn how to use Photoshop, I managed to get a good understanding of how it works and how to create graphics for certain things.",
       "img": "bi bi-image",
       "type": "About Me"
     },
     {
       "id": 2,
       "title": "Adobe Illstrator",
-      "desc": "Adobe illstrator was the next program I learned which I really enjoyed as typography always caught my eye.",
+      "desc": "Adobe Illstrator was the next program I learned which I really enjoyed as typography always caught my eye.",
       "img": "bi bi-fonts",
       "type": "About Me"
     },
