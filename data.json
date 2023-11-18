@@ -146,6 +146,7 @@
       "id": 1,
       "date": "Nov 2023 - Current",
       "company": "Sintrex",
+      "role": "Developer Intern",
       "jobDesc": "Sintrex is an IT infrastructure management company that creates applications for clients. The clients that we create help companies monitor their IT infrastructure, such as networking equipment and their workstations.",
       "type": "Work",
       "img": "https://i.postimg.cc/J4j8GVYs/sintrex-logo.jpg"
@@ -154,6 +155,7 @@
       "id": 2,
       "date": "Mar 2022 - Nov 2022",
       "company": "Business Technology",
+      "role": "Systems Engineer",
       "jobDesc": "I worked at Business Technology for 9 months as a Systems engineer, and my daily tasks were as follows: seeing to client hardware and software issues; doing client visits; and setting up PCs for clients. The reason I left was because I felt like it wasn't what I wanted to do and needed to do something else.",
       "type": "Work",
       "img": "https://businesstechnology.co.za/wp-content/uploads/2021/06/Business-Technology-logo-white-150px.png"
@@ -162,6 +164,7 @@
       "id": 3,
       "date": "Jun 2019 - Nov 2019",
       "company": "First Digital",
+      "role": "Intern",
       "jobDesc": "I worked at First Technology for 5 months, and my daily tasks were creating power apps and power flows for clients, seeing to clients SharePoint Sites, and creating custom SharePoint sites. The reason I left was because I felt like I wasn't ready and needed to study further.",
       "type": "Work",
       "img": "https://companies.mybroadband.co.za/first-digital/wp-content/themes/first-digital/images/logo_white.png?v=2"
