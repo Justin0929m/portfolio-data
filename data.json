@@ -147,7 +147,7 @@
       "date": "Nov 2023 - Current",
       "company": "Sintrex",
       "role": "Developer Intern",
-      "jobDesc": "Sintrex is an IT infrastructure management company that creates applications for clients. The clients that we create help companies monitor their IT infrastructure, such as networking equipment and their workstations.",
+      "jobDesc": "Sintrex is an IT infrastructure management company that creates applications for clients. The application that we created helps companies monitor their IT infrastructure, such as networking equipment and their workstations.",
       "type": "Work",
       "img": "https://i.postimg.cc/J4j8GVYs/sintrex-logo.jpg"
     },
@@ -173,6 +173,14 @@
   "projects": [
     {
       "id": 1,
+      "projectTitle": "Countries API / HTML / CSS",
+      "projectDesc": "This project demonstrates my abilities to work with APIs.",
+      "gitHubLink": "https://github.com/Justin0929m/frontendMentor-Country-API.git",
+      "demoLink": "https://teal-jalebi-2e31a0.netlify.app/",
+      "img": "https://i.postimg.cc/9QMTpFpL/Capture.png"
+    },
+    {
+      "id": 2,
       "projectTitle": "Creative Studio / HTML / CSS",
       "projectDesc": "This is my attempt at recreating a website I found on Pinterest.",
       "gitHubLink": "https://github.com/Justin0929m/website.git",
@@ -180,15 +188,15 @@
       "img": "https://i.postimg.cc/y6tpgLkt/Capture.png"
     },
     {
-      "id": 2,
+      "id": 3,
       "projectTitle": "BMX E-com Website / HTML / CSS / VUE / Node.js / MYSQL",
-      "projectDesc": "The goal of this project was to improve on my backend development as well as to create a complete e-commerce website which included a register and login process. It also showcases my skills using a REST API and MySQL as my database for the website. You can view the backend and frontend code via the GitHub link, there are 2 branches, one for the backend and one for the frontend. You will need to switch between the branches to see the code for each file.",
+      "projectDesc": "The goal of this project was to improve on my backend development as well as to create a complete e-commerce website which included a register and login process. It also showcases my skills using a REST API and MySQL as my database for the website. You can view the backend and frontend code via the GitHub link, there are 2 branches, one for the backend and one for the frontend. You will need to switch between the branches to see the code for each file. UPDATE: 2024/05/26 ****There is an issue with the sites deployment which I'm still trying to figure out whats wrong****",
       "gitHubLink": "https://github.com/LC1007/capstoneProject",
       "demoLink": "https://bmxcapstone-c14e7.web.app/",
       "img": "https://i.postimg.cc/TPNR3VM1/Capture.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "projectTitle": "E-commerce Website / HTML / CSS / JAVASCRIPT",
       "projectDesc": "I created an e-commerce website with an admin page using HTML, CSS, and JavaScript. The primary objective was to build a functional and visually appealing online store with an accompanying admin interface to manage products using a CRUD system.",
       "gitHubLink": "https://github.com/LC1007/eomp-ecommerce.git",
@@ -196,7 +204,7 @@
       "img": "https://i.postimg.cc/057VCH85/Untitled2.png"
     },
     {
-      "id": 4,
+      "id": 5,
       "projectTitle": "Clothing Website / HTML / CSS / JAVASCRIPT",
       "projectDesc": "I created this website for someone I know, they sell things from their home and wanted a website to post their items. I am still busy with the website and will be adding more features to the website.",
       "gitHubLink": "https://github.com/Justin0929m/ecommerceProject",
@@ -204,7 +212,7 @@
       "img": "https://i.postimg.cc/9QXyxmnG/ecom.png"
     },
     {
-      "id": 5,
+      "id": 6,
       "projectTitle": "Property Website / HTML / CSS",
       "projectDesc": "I found a property website design on Pinterest and tried recreating it using HTML and CSS. The goal was to develop a visually appealing and user-friendly website that showcases various properties and provides essential information to potential buyers or renters.",
       "gitHubLink": "https://github.com/Justin0929m/property-Website-Update.git",
@@ -212,7 +220,7 @@
       "img": "https://i.postimg.cc/13syrK2r/Untitled.png"
     },
     {
-      "id": 6,
+      "id": 7,
       "projectTitle": "Travel Website / HTML / CSS",
       "projectDesc": "I did the same process as with the property website, where I looked for website designs to recreate to test my HTML and CSS skills. I found a travel website that peaked my interest, and I've recreated the website to the best of my ability.",
       "gitHubLink": "https://github.com/Justin0929m/travel-website.git",
